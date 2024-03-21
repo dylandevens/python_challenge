@@ -1,0 +1,12 @@
+
+Here is the Financial Information you requested
+          
+-----------------------------------------------
+
+Total Months: 86
+Net Income: $(22564198)
+Average Month to Month Change: $(-8311.105882352942)
+Greatest Increase in Profits: Aug-16 for $(1862002)
+Greatest Decrease in Profits: Feb-14 for $(-1825558)
+          
+          
