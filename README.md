@@ -6,6 +6,7 @@ Included in this repository shoudl be the two folders for the two mini projects(
 
 
 
+
 # Directions:
 Before You Begin
 Before starting the assignment, be sure to complete the following steps:
